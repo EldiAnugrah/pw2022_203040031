@@ -1,0 +1,23 @@
+Apa itu Application Programing Interface 
+  -adalah sekumpulan fungsi subrutine protokol komunikasi atau kakas untuk membuat perangkat lunak 
+
+Interface 
+  -bagian yang sama antara 2 atau lebih komponen terpisah pada sebuah sistem komputer 
+  contoh : Dalam motherboard ada banyak slot 
+
+penerapan API
+  -dalam bahasa pemrograman 
+  -dalam library dan framework 
+  -dalam sistem operasi 
+  -web API/service
+
+contoh penerapan dalam framework
+  -$this->db->get('mahasiswa');
+
+contoh penerapan dalam Web API/service
+  -SOAP(Simple Object Acces Protocol)
+  -REST(REpresentational State Transfer) -> yang akan dibahas   
+
+pengertian Web API/service 
+  -Sebuah sistemperangkat lunak yang dibuat untuk mendukung innteraksi antar dua aplikasi yang berbeda melalui jaringan 
+    biasanya menggunakan protokol http 
